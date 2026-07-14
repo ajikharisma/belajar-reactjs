@@ -1,6 +1,5 @@
-# [Nomor]. [Nama Konsep]
-
-> Contoh: `6. conditional-rendering` 
+# [6]. [conditional-rendering]
+ 
 
 ## Konsep & Analogi
 
@@ -52,8 +51,7 @@ function Notifikasi({ adaPesanBaru, namaUser }) {
 
 | Bug | Penyebab | Perbaikan |
 |---|---|---|
-| *Contoh: tombol tidak berubah warna* | *typo `backgroundcolor` harusnya `backgroundColor` (camelCase)* | *ganti ke `backgroundColor`* |
-| | | |
+
 
 ## Pertanyaan yang Masih Mengganjal
 

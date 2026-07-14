@@ -1,6 +1,5 @@
-# [Nomor]. [Nama Konsep]
+# [3]. [useState]
 
-> Contoh: `3. useState` 
 
 ## Konsep & Analogi
 
@@ -49,8 +48,7 @@ function Counter() {
 
 | Bug | Penyebab | Perbaikan |
 |---|---|---|
-| *Contoh: tombol tidak berubah warna* | *typo `backgroundcolor` harusnya `backgroundColor` (camelCase)* | *ganti ke `backgroundColor`* |
-| | | |
+
 
 ## Pertanyaan yang Masih Mengganjal
 

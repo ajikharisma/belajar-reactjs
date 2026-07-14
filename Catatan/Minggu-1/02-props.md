@@ -1,6 +1,5 @@
-# [Nomor]. [Nama Konsep]
+# [2]. [props]
 
-> Contoh: `1. props` 
 
 ## Konsep & Analogi
 
@@ -55,8 +54,7 @@ function App() {
 
 | Bug | Penyebab | Perbaikan |
 |---|---|---|
-| *Contoh: tombol tidak berubah warna* | *typo `backgroundcolor` harusnya `backgroundColor` (camelCase)* | *ganti ke `backgroundColor`* |
-| | | |
+
 
 ## Pertanyaan yang Masih Mengganjal
 

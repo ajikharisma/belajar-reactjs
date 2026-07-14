@@ -1,6 +1,5 @@
-# [Nomor]. [Nama Konsep]
+# [4]. [event-handling]
 
-> Contoh: `4. event-handling` 
 
 ## Konsep & Analogi
 
@@ -49,8 +48,7 @@ function FormBelajar() {
 
 | Bug | Penyebab | Perbaikan |
 |---|---|---|
-| *Contoh: tombol tidak berubah warna* | *typo `backgroundcolor` harusnya `backgroundColor` (camelCase)* | *ganti ke `backgroundColor`* |
-| | | |
+
 
 ## Pertanyaan yang Masih Mengganjal
 

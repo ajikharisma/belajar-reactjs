@@ -1,6 +1,4 @@
-# [Nomor]. [Nama Konsep]
-
-> Contoh: `1. Component-jsx` 
+# [1]. [Component-jsx]
 
 ## Konsep & Analogi
 
@@ -59,8 +57,7 @@ export default WelcomeCard;
 
 | Bug | Penyebab | Perbaikan |
 |---|---|---|
-| *Contoh: tombol tidak berubah warna* | *typo `backgroundcolor` harusnya `backgroundColor` (camelCase)* | *ganti ke `backgroundColor`* |
-| | | |
+
 
 ## Pertanyaan yang Masih Mengganjal
 

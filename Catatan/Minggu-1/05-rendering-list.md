@@ -1,6 +1,5 @@
-# [Nomor]. [Nama Konsep]
+# [5]. [rendering-list]
 
-> Contoh: `5. rendering-list` 
 
 ## Konsep & Analogi
 
@@ -45,8 +44,7 @@ function DaftarBuah() {
 
 | Bug | Penyebab | Perbaikan |
 |---|---|---|
-| *Contoh: tombol tidak berubah warna* | *typo `backgroundcolor` harusnya `backgroundColor` (camelCase)* | *ganti ke `backgroundColor`* |
-| | | |
+
 
 ## Pertanyaan yang Masih Mengganjal
 
