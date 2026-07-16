@@ -6,7 +6,7 @@ Tujuannya: dokumentasi biar nggak lupa, sekaligus bukti progress belajar.
 ## Progress
 
 - [x] Minggu 1 — React Fundamental
-- [ ] Minggu 2 — Koneksi ke Data & Form
+- [x] Minggu 2 — Koneksi ke Data & Form
 - [ ] Minggu 3 — React Menengah
 - [ ] Next.js
 
@@ -28,4 +28,13 @@ Setiap folder minggu berisi:
 - Project: [Todo List App](minggu-1/project-todo-list/)
 
 ### Minggu 2
+- [01. useEffect & Dependency Array](minggu-2/catatan/[01-useeffect](<Catatan/Minggu-2/01-useEffect & Kesaktian Dependency Array.md>).md)
+- [02. Fetch Data dari API (async/await + try/catch)](<Catatan/Minggu-2/02-Advanced Fetch Data via API.md>)
+- [03. Cleanup Function (Cegah Memory Leak)](<Catatan/Minggu-2/03-Penyelamat Memory Leak Cleanup Function.md>)
+- [04. Loading & Error State](<Catatan/Minggu-2/04-UX yang Matang dengan Loading & Error State.md>)
+- [05. Controlled Form Input](<Catatan/Minggu-2/05-Controlled Form Input.md>)
+- [06. Lifting State Up](<Catatan/Minggu-2/06-Sharing Data via Lifting State Up.md>)
+- Project: [API Explorer — Fetch & Filter Postingan](minggu-2/tugas-minggu-2.jsx)
+
+### Minggu 3
 - *(diisi setelah dipelajari)*
