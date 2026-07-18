@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import Minggu1 from './minggu-1/Minggu1';
-import Minggu2 from './minggu-2/Minggu2'
+import Minggu2 from './minggu-2/Minggu2';
+import Minggu3 from './minggu-3/Minggu3';
 
 // FUNCTION INDUK — sekarang cuma jadi menu navigasi antar minggu
 export default function App() {
@@ -14,6 +15,11 @@ export default function App() {
   // Jika state halaman adalah "minggu2", tampilkan semua materi minggu 2
   if (halaman === "minggu2") {
     return <Minggu2 kembaliKeHome={() => setHalaman("home")} />;
+  }
+
+  // Jika state halaman adalah "minggu3", tampilkan semua materi minggu 3
+  if (halaman === "minggu3"){
+    return <Minggu3 kembaliKeHome={() => setHalaman("home")} />;
   }
 
   // Halaman utama — daftar menu tiap minggu
@@ -50,6 +56,13 @@ export default function App() {
           style={{ padding: "10px 20px", backgroundColor: "#28a745", color: "white", border: "none", borderRadius: "5px", cursor: "pointer", marginBottom: "20px" }}
         >
           📘 Buka Minggu 2
+        </button>
+
+        <button
+          onClick={() => setHalaman("minggu3")}
+          style={{ padding: "10px 20px", backgroundColor: "#FF0000", color:"white", border:"none", borderRadius:"5px", cursor:"pointer", marginBottom:"20px" }}
+        >
+          📘 Buka Minggu 3
         </button>
       </div>
     </div>

@@ -7,7 +7,7 @@ Tujuannya: dokumentasi biar nggak lupa, sekaligus bukti progress belajar.
 
 - [x] Minggu 1 — React Fundamental
 - [x] Minggu 2 — Koneksi ke Data & Form
-- [ ] Minggu 3 — React Menengah
+- [x] Minggu 3 — React Menengah
 - [ ] Next.js
 
 ## Struktur Folder
@@ -28,7 +28,7 @@ Setiap folder minggu berisi:
 - Project: [Todo List App](minggu-1/project-todo-list/)
 
 ### Minggu 2
-- [01. useEffect & Dependency Array](minggu-2/catatan/[01-useeffect](<Catatan/Minggu-2/01-useEffect & Kesaktian Dependency Array.md>).md)
+- [01. useEffect & Dependency Array](<Catatan/Minggu-2/01-useEffect & Kesaktian Dependency Array.md>)
 - [02. Fetch Data dari API (async/await + try/catch)](<Catatan/Minggu-2/02-Advanced Fetch Data via API.md>)
 - [03. Cleanup Function (Cegah Memory Leak)](<Catatan/Minggu-2/03-Penyelamat Memory Leak Cleanup Function.md>)
 - [04. Loading & Error State](<Catatan/Minggu-2/04-UX yang Matang dengan Loading & Error State.md>)
@@ -37,4 +37,11 @@ Setiap folder minggu berisi:
 - Project: [API Explorer — Fetch & Filter Postingan](minggu-2/tugas-minggu-2.jsx)
 
 ### Minggu 3
+- [01. React Router — Routing Multi-Halaman](<Catatan/Minggu-3/01-react-router.md>)
+- [02. Context API — State Global](<Catatan/Minggu-3/02-context-api.md>)
+- [03. Custom Hooks — Reuse Logic](<Catatan/Minggu-3/03-custom-hooks.md>)
+- [04. Component Composition](<Catatan/Minggu-3/04-component-composition.md>)
+- Project: [Direktori User — Router + Context + Custom Hook + Composition](minggu-3/direktori-user/)
+
+### Next.js
 - *(diisi setelah dipelajari)*
